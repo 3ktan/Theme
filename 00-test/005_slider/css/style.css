@@ -1,0 +1,21 @@
+.slide1{
+	background-image: url("../images/Reincarnated2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+}
+.slide2{
+	background-image: url("../images/Senki2.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+}
+.slide3{
+	background-image: url("../images/Necromancer.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: 500px;
+}
