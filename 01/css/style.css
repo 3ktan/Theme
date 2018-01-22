@@ -1,0 +1,47 @@
+/*
+Theme Name: 3ktan Theme Manga & LN
+Theme URI: 
+Description: 
+Version: 1.0.0
+Author: 3ktan
+Author URI: https://3ktan.wordpress.com
+Tags: 
+*/
+
+body{
+	font-family: "Aria" cursive !important;
+	
+}
+
+#theCarousel{
+ 	margin-top: 50px;	
+}
+.carousel-caption{
+	border: 2px solid #a6d02d; 
+	max-height: 350px;
+	background: linear-gradient(0deg, rgba(255, 255, 255, .8), rgba(255, 255, 255, .8))  ;
+	background-opacity: 0.3;
+	padding: 15px;
+	color: black;
+}
+/*	.info-avt img{
+		float: left;
+		width: 28%;
+	}
+	.info-cont{
+		float: right;
+		width: 70%;
+	}*/
+ 
+.carousel-caption p{
+	/*font-size: 2em;*/ 
+	max-height: 150px;  
+	color: black;
+	text-align: left;
+	font-size: 17px !important;
+}
+@media (max-width: 1200px){
+.f_search, .f_search .input-group{
+	width: 100% !important;
+} 
+}
